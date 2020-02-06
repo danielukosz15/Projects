@@ -1,0 +1,7 @@
+Maraton Nowy Jork
+2015-09-08
+3, Kowalski, 3412, 03:45:32
+5, Nowak, 5062, 04:10:01
+1, Grzybek, 1044, 03:03:54
+4, Smith, 2049, 04:09:45
+2, Muchomor, 1552, 03:03:59
