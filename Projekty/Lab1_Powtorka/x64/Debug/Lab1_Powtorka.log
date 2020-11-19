@@ -1,0 +1,7 @@
+﻿E:\Daniel-Lukosz\Studia\PPK_LAB\Projects\Projekty\Lab1_Powtorka\mystring.h(14,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Daniel-Lukosz\Studia\PPK_LAB\Projects\Projekty\Lab1_Powtorka\mystring.cpp(7,2): error C2511: „MyString::MyString(int,char)”: Przeciążona funkcja składowa nie została znaleziona w „MyString”
+E:\Daniel-Lukosz\Studia\PPK_LAB\Projects\Projekty\Lab1_Powtorka\mystring.cpp(7,6): error C2065: "x": niezadeklarowany identyfikator
+E:\Daniel-Lukosz\Studia\PPK_LAB\Projects\Projekty\Lab1_Powtorka\mystring.cpp(7,12): error C2065: "y": niezadeklarowany identyfikator
+E:\Daniel-Lukosz\Studia\PPK_LAB\Projects\Projekty\Lab1_Powtorka\mystring.cpp(7,18): error C2065: "z": niezadeklarowany identyfikator
+E:\Daniel-Lukosz\Studia\PPK_LAB\Projects\Projekty\Lab1_Powtorka\mystring.cpp(7,21): error C2550: "MyString::{ctor}": listy inicjatorów konstruktora są dozwolone tylko dla definicji konstruktora
+E:\Daniel-Lukosz\Studia\PPK_LAB\Projects\Projekty\Lab1_Powtorka\mystring.h(14,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
